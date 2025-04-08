@@ -6,15 +6,7 @@ This project aims to build a machine learning model that predicts the number of 
 
 ## 📁 Project Structure
 
-COVID-19 PROJECT/ 
-    ├── data/ # Datasets from Kaggle or other sources 
-    ├── notebooks/ # Jupyter notebooks for EDA & prototyping 
-    ├── src/ # Source code for data processing and modeling 
-    ├── models/ # Trained model files 
-    ├── tests/ # Unit tests 
-    ├── README.md # This file 
-    ├── requirements.txt # List of Python packages 
-    └── main.py # Entry point to run the project 
+covid19-death-prediction/ ├── data/ # Datasets from Kaggle or other sources ├── notebooks/ # Jupyter notebooks for EDA & prototyping ├── src/ # Source code for data processing and modeling ├── models/ # Trained model files ├── tests/ # Unit tests ├── README.md # This file ├── requirements.txt # List of Python packages └── main.py # Entry point to run the project
 
 ---
 

@@ -41,5 +41,5 @@ COVID-19 PROJECT/
 
 1. Clone the repository:
    ```bash
-   git clone <your-github-link>
+   git clone <https://github.com/mrGaladow/COVID-19-Project.git>
    cd "COVID-19 PROJECT"

@@ -4,7 +4,7 @@ This project aims to build a machine learning model that predicts the number of 
 
 ---
 
-<pre> ## 📁 Project Structure ``` COVID-19 Project/ ├── data/ # Datasets from Kaggle or other sources ├── notebooks/ # Jupyter notebooks for EDA & prototyping ├── src/ # Source code for data processing and modeling ├── models/ # Trained model files ├── tests/ # Unit tests ├── README.md # This file ├── requirements.txt # List of Python packages └── main.py # Entry point to run the project ``` </pre>
+<code> ## 📁 Project Structure ``` COVID-19 Project/ ├── data/ # Datasets from Kaggle or other sources ├── notebooks/ # Jupyter notebooks for EDA & prototyping ├── src/ # Source code for data processing and modeling ├── models/ # Trained model files ├── tests/ # Unit tests ├── README.md # This file ├── requirements.txt # List of Python packages └── main.py # Entry point to run the project ``` </code>
 
 ---
 

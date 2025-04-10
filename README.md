@@ -38,10 +38,18 @@ COVID-19 Project/
 
 ---
 
-
 ## 🚀 How to Run
 
-1. Clone the repository:
-   ```bash
-   git clone <https://github.com/mrGaladow/COVID-19-Project.git>
-   cd "COVID-19 PROJECT"
+Clone the repository:
+```bash
+    git clone <https://github.com/mrGaladow/COVID-19-Project.git>
+    cd "COVID-19 PROJECT"
+
+---
+
+## 📥 Download Dataset
+
+To download the dataset before running the project:
+
+```bash
+    python scripts/download_assets.py

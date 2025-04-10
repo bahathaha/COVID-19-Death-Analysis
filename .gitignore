@@ -1,0 +1,41 @@
+#Python cache
+__pycache__/
+*.py[cod]
+
+#Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+#virtual environment
+venv\
+env\
+
+#OS-specific
+.DS_Store
+Thumbs.db
+
+#Data and model
+data\
+models\
+
+#Logs and Outputs
+.log
+
+#VSCode settings
+.vscode\
+
+#Environment files
+.env
+
+#Ignore requirements backup or lock files
+pip-log.txt
+
+# Jupyter Notebook hidden folders (some setups)
+*.nbconvert.ipynb
+
+# Common archive files
+*.zip
+*.tar.gz
+
+# Kaggle API credentials (just in case)
+.kaggle/
+kaggle.json

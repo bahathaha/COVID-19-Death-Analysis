@@ -1,4 +1,5 @@
 # 🦠 COVID-19 Death Prediction Project
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 This project aims to build a machine learning model that predicts the number of deaths due to COVID-19 based on various features from publicly available datasets.
 

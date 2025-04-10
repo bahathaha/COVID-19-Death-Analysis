@@ -42,8 +42,9 @@ COVID-19 Project/
 
 Clone the repository:
 ```bash
-    git clone <https://github.com/mrGaladow/COVID-19-Project.git>
-    cd "COVID-19 PROJECT"
+git clone <https://github.com/mrGaladow/COVID-19-Project.git>
+cd "COVID-19 PROJECT"
+```
 
 ---
 
@@ -52,4 +53,5 @@ Clone the repository:
 To download the dataset before running the project:
 
 ```bash
-    python scripts/download_assets.py
+python scripts/download_assets.py
+```

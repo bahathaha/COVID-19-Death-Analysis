@@ -15,7 +15,9 @@ Thumbs.db
 
 #Data and model
 data/
+!data/.gitkeep
 models/
+!models/.gitkeep
 
 #Logs and Outputs
 .log

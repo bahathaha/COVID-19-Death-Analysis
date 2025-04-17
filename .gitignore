@@ -41,3 +41,6 @@ pip-log.txt
 # Kaggle API credentials (just in case)
 .kaggle/
 kaggle.json
+
+#Temporarily ignore the Dockerfile for local development
+Dockerfile

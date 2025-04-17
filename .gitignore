@@ -6,22 +6,22 @@ __pycache__/
 .ipynb_checkpoints
 
 #virtual environment
-venv\
-env\
+venv/
+env/
 
 #OS-specific
 .DS_Store
 Thumbs.db
 
 #Data and model
-data\
-models\
+data/
+models/
 
 #Logs and Outputs
 .log
 
 #VSCode settings
-.vscode\
+.vscode/
 
 #Environment files
 .env

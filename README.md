@@ -54,5 +54,5 @@ cd "COVID-19 PROJECT"
 To download the dataset before running the project:
 
 ```bash
-python scripts/download_assets.py
+python scripts\download_assets.py
 ```
